@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# VI
+.swp
+
+# Gedit
+*~
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+/tmp
+/docs
+/logs/*.log

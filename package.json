@@ -1,0 +1,43 @@
+{
+  "name": "Junkiri",
+  "version": "1.0.0",
+  "scripts": {
+    "docs:build":"./node_modules/documentation/bin/documentation.js build src/ -f html --shallow -o docs/ --project-version --name -e js",
+    "docs:lint":"./node_modules/documentation/bin/documentation.js lint src/",
+    "docs:serve":"./node_modules/documentation/bin/documentation.js serve src/ -f md --shallow --project-version --name -e js",
+    "start:dev": "./node_modules/nodemon/bin/nodemon.js ./www.js",
+    "start:production": "./node_modules/pm2/bin/pm2 start ./www.js --name=\"junkiri\"",
+    "stop:production": "./node_modules/pm2/bin/pm2 stop junkiri",
+    "watch:sass": "node ./node_modules/gulp/bin/gulp.js"
+  },
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "~1.16.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "express": "~4.14.1",
+    "express-session": "^1.15.1",
+    "flash": "^1.1.0",
+    "foundation-sites": "^6.3.0",
+    "hbs": "~4.0.1",
+    "method-override": "^2.3.7",
+    "morgan": "~1.7.0",
+    "mosca": "^2.2.0",
+    "pm2": "^2.4.2",
+    "socket.io": "^1.7.3",
+    "sqlite3": "^3.1.8",
+    "winston": "^2.3.1",
+    "ws": "^2.2.1"
+  },
+  "main": "www.js",
+  "devDependencies": {
+    "documentation": "^4.0.0-beta.18",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "nodemon": "^1.11.0"
+  },
+  "author": "Deepak Adhikari <deepakadhikari@lftechnology.com>",
+  "license": "GPLv3",
+  "description": "Wireless electrical switches"
+}

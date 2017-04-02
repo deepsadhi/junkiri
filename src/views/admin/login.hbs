@@ -1,0 +1,35 @@
+<div class="row medium-6 medium-centered">
+  <div class="medium-12 column">
+    <form data-abide novalidate method="POST" action="{{{form.action}}}" class="log-in-form">
+      {{>callout this}}
+
+      <div class="row">
+        <div class="medium-12 column">
+          <div class="row">
+            <div class="column">
+            <label>Username <span class="required">*</span>
+              <input type="text" required name="username" value="{{form.value.username}}">
+              <span class="form-error">
+                Please enter username.
+              </span>
+            </label>
+          </div>
+          <div class="column">
+          <label>Password <span class="required">*</span>
+              <input type="password" required name="pwd">
+              <span class="form-error">
+                Please enter password.
+              </span>
+            </label>
+          </div>
+          <div class="column">
+            <fieldset>
+              <button class="button" type="submit">Login</button>
+            </fieldset>
+          </div>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

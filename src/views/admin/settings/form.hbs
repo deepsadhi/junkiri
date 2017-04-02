@@ -1,0 +1,29 @@
+{{> nav}}
+
+<div class="row">
+  <h5>{{form.title}}</h5>
+  <form data-abide novalidate  method="POST" action="{{{form.action}}}">
+    <div class="row">
+      <div class="medium-6 columns">
+        <div data-abide-error class="alert callout" style="display: none;">
+          <p><i class="fi-alert"></i> Some fields are invalid.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="medium-6 columns">
+        <label>Name<span class="required">*</span>
+          <input type="text" placeholder="" required name="name" pattern="^[a-zA-Z0-9 -]*$" value="{{form.value.name}}">
+          <span class="form-error">
+            Please enter valid name.
+          </span>
+        </label>
+      </div>
+    </div>
+    <div class="row">
+      <fieldset class="medium-6 columns">
+        <button class="button" type="submit" value="Submit">{{form.submit}}</button>
+      </fieldset>
+    </div>
+  </form>
+</div>

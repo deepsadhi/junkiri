@@ -1,0 +1,90 @@
+{{> nav}}
+
+<div class="row">
+  <h5>{{form.title}}</h5>
+  <form data-abide novalidate method="POST" action="{{{form.action}}}">
+    <div data-abide-error class="alert callout" style="display: none;">
+      <p><i class="fi-alert"></i> Some fields are invalid.</p>
+    </div>
+    <div class="row">
+      <div class="medium-6 columns">
+        <label>Name<span class="required">*</span>
+          <input type="text" placeholder="Tubelight" value="{{form.value.name}}" required name="name" pattern="^[a-zA-Z0-9 -]*$">
+          <span class="form-error">
+            Please enter valid name of switch.
+          </span>
+        </label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="medium-6 columns">
+        <label>Floor <span class="required">*</span>
+          <select name="floor_id" required>
+            <option></option>
+            {{#each form.option.floor}}
+              <option value="{{this.id}}"
+                {{#ifEq this.id ../form.value.floor_id}} selected {{/ifEq}}
+                >{{this.name}}</option>
+            {{/each}}
+          </select>
+          <span class="form-error">
+            Please select floor where switch is placed.
+          </span>
+        </label>
+      </div>
+      <div class="medium-6 columns">
+        <label>Area <span class="required">*</span>
+          <select name="area_id" required>
+            <option></option>
+            {{#each form.option.area}}
+              <option value="{{this.id}}"
+                {{#ifEq this.id ../form.value.area_id}} selected {{/ifEq}}
+                >{{this.name}}</option>
+            {{/each}}
+          </select>
+          <span class="form-error">
+            Please select area where switch is placed.
+          </span>
+        </label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="medium-6 columns">
+        <label>Node <span class="required">*</span>
+          <select name="node_id" required>
+            <option></option>
+            {{#each form.option.node}}
+              <option value="{{this.id}}"
+                {{#ifEq this.id ../form.value.node_id}} selected {{/ifEq}}
+                >{{this.name}}</option>
+            {{/each}}
+          </select>
+          <span class="form-error">
+            Please select NodeMCU ID of pin.
+          </span>
+        </label>
+      </div>
+      <div class="medium-6 columns">
+        <label>Pin <span class="required">*</span>
+          <select name="pin" required>
+            <option></option>
+            {{#each form.option.pin}}
+              <option
+                {{#ifEq this ../form.value.pin}} selected {{/ifEq}}
+                >{{this}}</option>
+            {{/each}}
+          </select>
+          <span class="form-error">
+            Please select pin of NodeMCU.
+          </span>
+        </label>
+      </div>
+    </div>
+    <div class="row">
+      <fieldset class="medium-6 columns">
+        <button class="button" type="submit" value="Submit">{{form.submit}}</button>
+      </fieldset>
+    </div>
+  </form>
+</div>
+

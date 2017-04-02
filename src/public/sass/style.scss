@@ -1,0 +1,48 @@
+@import '../../../node_modules/foundation-sites/scss/foundation';
+@include foundation-everything;
+
+.switch-input + .switch-paddle {
+    background: #f1592a;
+}
+
+.switch-input[disabled] + .switch-paddle {
+    background-color: #cacaca;
+}
+
+.switch-input[disabled]:checked + .switch-paddle {
+    background-color: #cacaca;
+}
+
+.switch-input:checked + .switch-paddle {
+    background-color: #68be62;
+}
+
+span.required {
+    color: #cc4b37;
+}
+
+// Default medium-gray color
+$medium-gray: #cacaca;
+// Default global padding
+$global-padding: 1rem;
+// Global value used for all elements that have a border radius.
+$global-radius: 3px;
+
+// Setting the form border color
+$form-border-color: $medium-gray;
+// Setting the form padding
+$form-padding: $global-padding;
+// Setting the form border radius
+$form-radius: $global-radius;
+
+.log-in-form {
+    border: 1px solid $form-border-color;
+    padding: $form-padding;
+    border-radius: $form-radius;
+    margin-top: 9rem;
+
+    @include breakpoint(small only) {
+        margin-top: 2rem
+    }
+}
+

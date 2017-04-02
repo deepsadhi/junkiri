@@ -1,0 +1,215 @@
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-21T02:40:07.770Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-21T02:40:07.775Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-21T02:41:19.056Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-21T02:41:19.061Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-21T02:44:21.937Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-21T02:44:21.941Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:25:35.049Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:25:35.053Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:25:42.374Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-03-26T16:25:52.926Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:26:16.159Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:27:24.116Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:27:24.121Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:27:28.947Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:31:32.285Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:31:32.289Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:31:36.947Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:32:18.216Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:32:18.221Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:32:22.945Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:32:45.392Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:32:45.399Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:32:49.946Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:36:47.942Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:36:47.948Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:36:51.945Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:37:17.937Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:37:17.941Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:37:21.946Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:39:14.654Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:39:14.659Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:39:18.944Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:39:29.094Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:39:29.099Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:39:32.945Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:39:38.785Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:39:38.793Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:39:41.350Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:39:41.354Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:39:42.945Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:39:46.985Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:39:46.990Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:39:50.946Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:40:27.373Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:40:27.377Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:40:27.945Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:41:02.646Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:41:02.651Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:41:06.945Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:41:27.133Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:41:27.137Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:41:31.945Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:41:35.804Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:41:35.808Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:41:40.563Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:41:40.568Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:41:45.953Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:42:11.628Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:42:11.634Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:42:15.954Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/high","timestamp":"2017-03-26T16:43:09.112Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-03-26T16:43:09.113Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-03-26T16:43:12.637Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:43:12.748Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/low","timestamp":"2017-03-26T16:43:17.777Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-03-26T16:43:17.778Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:46:32.491Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:46:32.496Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:46:36.951Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:49:23.105Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:49:23.110Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:49:27.943Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:55:02.713Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:55:02.717Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:55:06.946Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:56:12.309Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:56:12.313Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:56:16.940Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:57:21.680Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:57:21.686Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:57:25.956Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T16:58:23.677Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T16:58:23.684Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T16:58:27.954Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:06:30.284Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:06:30.289Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T17:06:34.946Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:13:22.864Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:13:22.868Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T17:13:26.945Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:13:45.473Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:13:45.478Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T17:13:49.945Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:14:30.299Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:14:30.304Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-26T17:14:34.946Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-03-26T17:15:13.173Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:17:24.275Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:17:24.282Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:19:28.145Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:19:28.150Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:20:57.998Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:20:58.004Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:24:19.731Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:24:19.736Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:30:11.515Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:30:11.522Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:30:13.087Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:30:13.093Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:31:30.429Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:31:30.434Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:32:21.266Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:32:21.271Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:32:58.380Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:32:58.385Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:33:23.194Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:33:23.199Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:39:03.627Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:39:03.632Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:39:13.988Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:39:13.993Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:39:19.034Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:39:19.039Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:40:48.909Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:40:48.914Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:40:51.010Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:40:51.015Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:41:05.889Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:41:05.894Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:41:10.681Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:41:10.685Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:41:12.317Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:41:12.323Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:44:19.436Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:44:19.441Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:45:41.153Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:45:41.158Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:47:06.402Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:47:06.407Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:47:18.587Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:47:18.592Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:47:42.338Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:47:42.343Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:47:58.392Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:47:58.396Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-26T17:56:24.832Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-26T17:56:24.839Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-28T16:25:05.162Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-28T16:25:05.185Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-28T16:25:18.961Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-28T16:25:18.966Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-28T16:25:35.538Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-28T16:25:35.546Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-28T16:25:41.422Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-28T16:25:41.426Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-28T16:25:45.148Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-03-28T16:25:51.484Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-28T16:25:51.721Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-03-28T16:26:08.045Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-28T16:26:08.356Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-03-28T16:26:10.862Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-28T16:26:11.136Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-03-28T16:26:37.963Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-28T16:26:38.240Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-03-28T16:26:57.223Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-28T16:26:57.549Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-28T16:27:01.420Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-03-28T16:27:08.050Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-03-28T16:28:55.996Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-03-28T16:28:56.004Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-28T16:29:00.196Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-03-28T16:29:22.267Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-03-28T16:29:22.614Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-01T15:24:57.170Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-01T15:24:57.191Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-01T15:25:06.393Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-01T15:25:11.407Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-01T15:27:04.199Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-01T15:27:04.202Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-01T15:27:11.922Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-01T15:27:17.350Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-02T05:09:24.828Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-02T05:09:24.832Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T05:09:35.447Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T05:13:29.210Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-02T05:13:49.860Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-02T05:14:04.457Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-02T05:38:35.373Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-02T05:38:35.378Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T05:42:04.965Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-02T05:46:13.549Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T05:46:19.976Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-02T05:56:05.964Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-02T05:56:05.968Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T05:56:09.978Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-02T05:56:21.319Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-02T05:56:21.328Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T05:56:25.291Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-02T05:56:46.053Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-02T05:56:46.058Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T05:56:50.046Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-02T05:56:56.679Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-02T05:56:56.685Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T05:57:00.626Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-02T05:57:09.276Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T05:57:09.363Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-02T05:57:11.848Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T06:04:27.172Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-02T06:05:00.084Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-02T06:05:00.089Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T06:05:04.086Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-02T06:06:24.246Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T06:07:14.085Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-02T06:07:28.150Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T06:07:28.227Z"}

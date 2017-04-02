@@ -1,0 +1,3 @@
+-- MQTT broker IP address and port
+BROKER_PORT = 1883
+BROKER_HOST = "SERVER_IP_ADDRESS"

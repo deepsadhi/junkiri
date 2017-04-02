@@ -1,0 +1,60 @@
+{{> nav}}
+
+<div class="row">
+  <h3>{{setting}}</h3>
+  <a href="{{addUrl}}">Add</a>
+</div>
+
+<div class="row">
+  {{>callout this}}
+
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each index}}
+      <tr>
+        <td>{{this.name}}</td>
+        <td>
+          <a href="{{../url}}/{{this.id}}/edit" class="tiny button">Edit</a>
+          <a  data-name="{{this.name}}" data-href="{{../url}}/{{this.id}}?_method=DELETE" data-open="alert-modal" href="#" class="tiny hasreveal alert button confirm">Delete</a>
+        </td>
+      </tr>
+      {{/each}}
+    </tbody>
+  </table>
+</div>
+
+<div class="reveal" id="alert-modal" data-reveal>
+  <form method="POST" action="" id="delete-form">
+    <h3>Confirm Delete</h3>
+    <p>Are you sure want to delete <strong id="name"></strong>?</p>
+    <button class="close-button" data-close aria-label="Close modal" type="button">
+      <span aria-hidden="true">&times;</span>
+    </button>
+    <div class="row float-right">
+    <input type="hidden" name="_method" value="DELETE">
+    <button class="alert button" href="#">Delete</button>
+    <button class="secondary hollow button" data-close aria-label="Close modal" type="button">Cancel</button>
+    </div>
+  </form>
+</div>
+
+<script>
+  var name;
+  var href;
+
+  $('.confirm').click(function (e){
+    name = $(this).data('name');
+    href = $(this).data('href');
+  });
+
+  $('#alert-modal').on('closeme.zf.reveal', function(e) {
+    $(this).find('#name').html(name);
+    $('#delete-form').attr('action', href);
+  });
+</script>
