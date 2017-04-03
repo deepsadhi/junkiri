@@ -39,5 +39,9 @@
   },
   "author": "Deepak Adhikari <deepakadhikari@lftechnology.com>",
   "license": "GPLv3",
-  "description": "Wireless electrical switches"
+  "description": "Wireless electric switch",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/deepsadhi/junkiri.git"
+  }
 }

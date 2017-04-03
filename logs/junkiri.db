@@ -213,3 +213,13 @@
 {"level":"info","message":"Client connected","timestamp":"2017-04-02T06:07:14.085Z"}
 {"level":"info","message":"Client disconnected","timestamp":"2017-04-02T06:07:28.150Z"}
 {"level":"info","message":"Client connected","timestamp":"2017-04-02T06:07:28.227Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-02T10:59:07.547Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-02T10:59:07.551Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T10:59:13.688Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-02T10:59:24.749Z"}
+{"message":"SQLITE_CONSTRAINT: NOT NULL constraint failed: nodes.pin","stack":"Error: SQLITE_CONSTRAINT: NOT NULL constraint failed: nodes.pin","errno":19,"code":"SQLITE_CONSTRAINT","level":"error","timestamp":"2017-04-02T10:59:55.680Z"}
+{"message":"SQLITE_CONSTRAINT: NOT NULL constraint failed: nodes.pin","stack":"Error: SQLITE_CONSTRAINT: NOT NULL constraint failed: nodes.pin","errno":19,"code":"SQLITE_CONSTRAINT","level":"error","timestamp":"2017-04-02T11:00:14.898Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-02T15:30:34.689Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-02T15:30:34.694Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-02T15:30:41.928Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-02T15:31:27.207Z"}
