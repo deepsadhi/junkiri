@@ -1,7 +1,7 @@
 /**
  * Junkiri: Wireless electrical switch
  * @module app
- * @author Deepak Adhikari <deeps.adhi@gmail.com>
+ * @author Deepak Adhikari <deepakadhikari@lftechnology.com>
  */
 var hbs = require('hbs');
 var path = require('path');

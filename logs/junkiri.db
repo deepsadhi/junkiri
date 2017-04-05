@@ -223,3 +223,81 @@
 {"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-02T15:30:34.694Z"}
 {"level":"info","message":"Client connected","timestamp":"2017-04-02T15:30:41.928Z"}
 {"level":"info","message":"Client disconnected","timestamp":"2017-04-02T15:31:27.207Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-04T11:58:41.031Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-04T11:58:41.059Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-04T11:58:43.005Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-04T11:58:43.180Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-04T11:58:43.347Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-04T16:13:45.701Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-04T16:20:17.585Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-04T16:20:17.589Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-04T16:20:31.924Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-04T16:21:32.544Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-04T16:21:47.506Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-04T16:21:47.511Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-04T16:21:48.004Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-04T16:21:49.673Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/high","timestamp":"2017-04-04T16:21:56.206Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:21:56.207Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/low","timestamp":"2017-04-04T16:21:57.550Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:21:57.550Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/high","timestamp":"2017-04-04T16:21:58.537Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:21:58.537Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/low","timestamp":"2017-04-04T16:21:59.489Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:21:59.489Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/high","timestamp":"2017-04-04T16:22:00.455Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:22:00.455Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-04T16:22:26.195Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-04T16:22:46.741Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-04T16:23:24.947Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/high","timestamp":"2017-04-04T16:23:26.258Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:26.258Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/low","timestamp":"2017-04-04T16:23:27.581Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:27.582Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/high","timestamp":"2017-04-04T16:23:28.327Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:28.327Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/low","timestamp":"2017-04-04T16:23:29.303Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:29.303Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/high","timestamp":"2017-04-04T16:23:30.071Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:30.072Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/low","timestamp":"2017-04-04T16:23:31.283Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:31.284Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/high","timestamp":"2017-04-04T16:23:31.958Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:31.959Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/low","timestamp":"2017-04-04T16:23:33.283Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:33.283Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/low","timestamp":"2017-04-04T16:23:34.371Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:34.371Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/high","timestamp":"2017-04-04T16:23:39.083Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:39.084Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/high","timestamp":"2017-04-04T16:23:41.102Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:41.103Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/low","timestamp":"2017-04-04T16:23:45.462Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:45.462Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/low","timestamp":"2017-04-04T16:23:46.408Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-04T16:23:46.409Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-04T16:23:53.758Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-04T16:24:00.902Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-04T16:24:00.906Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-04T16:24:04.903Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-04T16:24:25.524Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-04T17:10:45.315Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-05T00:41:54.183Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-05T01:39:55.659Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-05T01:39:55.664Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-05T01:39:57.757Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/high","timestamp":"2017-04-05T01:40:05.550Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-05T01:40:05.550Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-05T01:40:18.290Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-05T01:40:18.297Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-05T01:40:19.654Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-05T01:40:19.757Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-05T01:40:19.861Z"}
+{"level":"info","message":"Client toggled switch to /junkiri-n1/pin/low","timestamp":"2017-04-05T02:24:59.115Z"}
+{"level":"info","message":"Message published to node","timestamp":"2017-04-05T02:24:59.116Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-05T02:34:15.745Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-05T02:34:15.750Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-05T02:34:20.252Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-05T02:34:50.899Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-05T02:34:50.904Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-05T02:34:55.258Z"}

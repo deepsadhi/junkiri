@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         checkbox.disabled = 'disabled';
       });
 
-      appStauts.innerText = 'Reconnecting...';
+      appStauts.innerText = 'Connecting...';
 
       setTimeout(initWebSocket, 5000);
     };
