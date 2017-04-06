@@ -1,7 +1,7 @@
 Junkiri
 =======
+![Coverage Status](https://junkiri.github.io/images/ic_logo.png)  
 Junkiri is wireless electric switching system
-[![Coverage Status](https://junkiri.github.io/images/ic_logo.png)]
 
 ## Quickstart
 
