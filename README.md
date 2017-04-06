@@ -24,7 +24,6 @@ All to be found [repository wiki section.](https://github.com/deepsadhi/junkiri/
 
 * [Wiki](http://github.com/deepsadhi/junkiri/wiki)
 * [Docs](http://junkiri.github.io/docs)
-* [GIT Repository](http://github.com/deepsadhi/junkiri)
 
 ## Authors
 
