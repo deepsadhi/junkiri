@@ -1,7 +1,7 @@
 Junkiri
 =======
-Wireless electric switching system  
-![Coverage Status](https://junkiri.github.io/images/ic_logo_small.png)
+![Coverage Status](https://junkiri.github.io/images/ic_logo_small.png)  
+Wireless electric switching system
 
 ## Quickstart
 
