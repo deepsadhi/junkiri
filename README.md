@@ -1,8 +1,8 @@
 Junkiri
 =======
-####Junkiri is wireless electric switching system
+Junkiri is wireless electric switching system
 
-##Quickstart
+## Quickstart
 
 ```bash
 git clone git@github.com:deepsadhi/junkiri.git
@@ -10,7 +10,7 @@ npm install
 npm run start:dev
 ```
 
-###URL
+### URL
 - App [http://localhost:8000](http://localhost:8000)
 - Dashboard [http://localhost:8000/login](http://localhost:8000/login)
 > Dashboard default username/password is **admin**/**admin**
