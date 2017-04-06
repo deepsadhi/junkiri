@@ -1,6 +1,6 @@
 /**
  * Junkiri: Wireless electrical switch
- * @author Deepak Adhikari <deepakadhikari@lftechnology.com>
+ * @author Deepak Adhikari <deeps.adhi@gmail.com>
  */
 var app = require('./src/app');
 var debug = require('debug')('myapp:server');

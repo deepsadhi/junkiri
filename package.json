@@ -37,7 +37,7 @@
     "gulp-sourcemaps": "^2.4.1",
     "nodemon": "^1.11.0"
   },
-  "author": "Deepak Adhikari <deepakadhikari@lftechnology.com>",
+  "author": "Deepak Adhikari <deeps.adhi@gmail.com>",
   "license": "GPLv3",
   "description": "Wireless electric switch",
   "repository" : {

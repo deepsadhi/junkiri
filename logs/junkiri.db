@@ -301,3 +301,8 @@
 {"level":"info","message":"WebSocket server started","timestamp":"2017-04-05T02:34:50.899Z"}
 {"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-05T02:34:50.904Z"}
 {"level":"info","message":"Client connected","timestamp":"2017-04-05T02:34:55.258Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-05T02:38:48.301Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-06T00:39:49.654Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-06T00:39:49.685Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-06T00:39:51.613Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-06T00:39:54.709Z"}
