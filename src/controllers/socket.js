@@ -61,7 +61,7 @@ module.exports = function (wsServer) {
       });
     });
 
-
+    // Send ping signal to Junkiri nodes every minute
     socket.nodes(function(nodes) {
       var pong = function() {
         setTimeout(function() {
@@ -72,7 +72,7 @@ module.exports = function (wsServer) {
             ping(topic);
             pong();
           }
-        }, 6000);
+        }, 60000);
       };
       pong();
     });
