@@ -9,7 +9,7 @@ var area = require('../services/area');
  * @return {Function}     Express view
  */
 exports.index = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
   var addUrl = url + '/create';
 
   area.index(function(rows) {
@@ -32,7 +32,7 @@ exports.index = function(req, res) {
  * @return {Function}     Express view
  */
 exports.create = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
   url = url.replace('/create', '');
 
   res.render('admin/settings/form', {
@@ -52,7 +52,7 @@ exports.create = function(req, res) {
  * @return {Function}     Express redirect
  */
 exports.store = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
 
   area.store(req.body, function(alert) {
     req.flash(alert.type, alert.message);
@@ -67,7 +67,7 @@ exports.store = function(req, res) {
  * @return {Function}     Express view
  */
 exports.edit = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
 
   area.find(req.params.id, function(value) {
     if (value === false) {
@@ -94,7 +94,7 @@ exports.edit = function(req, res) {
  * @return {Function}     Express redirect
  */
 exports.put = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
   url = url.replace(/\/[0-9]*\?_method=PUT/g, '');
 
   area.update(req.params.id, req.body, function(alert) {
@@ -110,7 +110,7 @@ exports.put = function(req, res) {
  * @return {Function}     Express redirect
  */
 exports.delete = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
   url = url.replace(/\/[0-9]*\?_method=DELETE/g, '');
 
   area.delete(req.params.id, function(alert) {

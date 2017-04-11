@@ -23,7 +23,7 @@ router.get('/', function(req, res) {
  * @return {Function}     Express view
  */
 router.get('/login', function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
   var username = req.session.username ? req.session.username : '';
 
   res.render('admin/login', {

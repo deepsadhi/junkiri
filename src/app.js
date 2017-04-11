@@ -11,6 +11,7 @@ var logger = require('morgan');
 var express = require('express');
 var config = require('../config');
 var home = require('./routes/home');
+var utils = require('./utils/common');
 var admin = require('./routes/admin');
 var bodyParser = require('body-parser');
 var auth = require('./controllers/auth');
@@ -57,6 +58,10 @@ hbs.registerHelper('json', function(context) {
 
 hbs.registerHelper('shift', function(context) {
   return context.shift();
+});
+
+hbs.registerHelper('url', function(context) {
+  return utils.url(context);
 });
 
 app.use(logger('dev'));

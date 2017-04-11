@@ -10,7 +10,7 @@ var node = require('../services/node');
  * @return {Function}     Express view
  */
 exports.index = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
   var addUrl = url + '/create';
 
   node.index(function(rows) {
@@ -32,7 +32,7 @@ exports.index = function(req, res) {
  * @return {Function}     Express view
  */
 exports.create = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
   url = url.replace('/create', '');
 
   res.render('admin/node/form', {
@@ -58,7 +58,7 @@ exports.create = function(req, res) {
  * @return {Function}     Express redirect
  */
 exports.store = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
   req.body.pin = JSON.stringify(req.body.pin);
 
   req['body']['alive'] = 0;
@@ -75,7 +75,7 @@ exports.store = function(req, res) {
  * @return {Function}     Express view
  */
 exports.edit = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
 
   node.find(req.params.id, function(value) {
     if (value === false) {
@@ -105,7 +105,7 @@ exports.edit = function(req, res) {
  * @return {Function}     Express redirect
  */
 exports.put = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
 
   req.body.pin = JSON.stringify(req.body.pin);
   url = url.replace(/\/[0-9]*\?_method=PUT/g, '');
@@ -123,7 +123,7 @@ exports.put = function(req, res) {
  * @return {Function}     Express redirect
  */
 exports.delete = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
   url = url.replace(/\/[0-9]*\?_method=DELETE/g, '');
 
   node.delete(req.params.id, function(alert) {

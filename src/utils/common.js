@@ -1,4 +1,5 @@
 /** @module utils/common */
+var config = require('../../config');
 
 /**
  * Get URL
@@ -6,8 +7,8 @@
  * @param  {Object} req Express request object
  * @return {string}     URL
  */
-exports.url = function(req) {
-  return req.protocol + '://' + req.get('host') + req.originalUrl;
+exports.url = function(path) {
+  return config.proxy.host + path;
 };
 
 /**

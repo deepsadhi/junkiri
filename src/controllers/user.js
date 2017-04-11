@@ -9,7 +9,7 @@ var utils = require('../utils/common');
  * @return {Object}         URL redirect
  */
 exports.authenticate = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
 
   user.authenticate(req.body, function(user) {
     if (user === false) {
@@ -30,7 +30,7 @@ exports.authenticate = function(req, res) {
  * @return {Object}     Express view
  */
 exports.changePassword = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
   var userId = req.session.user_id;
 
   user.find(userId, function(value) {
@@ -54,7 +54,7 @@ exports.changePassword = function(req, res) {
  * @return {Object}     URL redirect
  */
 exports.updatePassword = function(req, res) {
-  var url = utils.url(req);
+  var url = utils.url(req.originalUrl);
   var userId = req.session.user_id;
 
   url = url.replace('?_method=PUT', '');
