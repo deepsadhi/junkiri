@@ -12,6 +12,10 @@ tmr.alarm(0, 1000, 1, function()
 
     -- Subscribe topic on connect
     node:on("connect", function(m)
+      node:subscribe(PING, 0, function (m)
+        print("Subscribed to ping topic")
+      end)
+
       node:subscribe(PIN_LOW, 0, function (m)
         print("Subscribed to pin low topic")
       end)

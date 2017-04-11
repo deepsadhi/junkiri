@@ -4,6 +4,16 @@ var utils = require('../utils/common');
 var switch_ = require('../daos/switch');
 
 /**
+ * Node list
+ * @param  {Function} cb Callback
+ */
+exports.nodes = function(cb) {
+  node.index(function(rows) {
+    cb(rows);
+  });
+};
+
+/**
  * Switch panel
  * @param  {Function} cb Callback
  */

@@ -61,6 +61,22 @@ module.exports = function (wsServer) {
       });
     });
 
+
+    socket.nodes(function(nodes) {
+      var pong = function() {
+        setTimeout(function() {
+          for (var i in nodes) {
+            var node = nodes[i];
+            var topic = '/' + node.name + '/ping';
+
+            ping(topic);
+            pong();
+          }
+        }, 6000);
+      };
+      pong();
+    });
+
     // MQTT broker is ready
     mqttBroker.on('ready', function() {
       logger.info('MQTT broker started');
@@ -110,6 +126,20 @@ module.exports = function (wsServer) {
     mqttBroker.on('published', function(packet, node) {
       logger.info('Message published to node');
     });
+
+    // Send ping message to node
+    function ping(topic) {
+      var message = {
+        qos: 1,
+        topic: topic,
+        payload: 'ping',
+        retain: false,
+      };
+
+      // Publish message to NodeMCU
+      mqttBroker.publish(message, function() {
+      });
+    };
 
     /**
      * Publish message to NodeMCU
