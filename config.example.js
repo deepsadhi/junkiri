@@ -3,7 +3,7 @@ module.exports = {
     filename: 'junkiri.log',
   },
   proxy: {
-    host: 'localhost:8000',
+    host: 'http://localhost:8000',
   },
   server: {
     port: 8000,
