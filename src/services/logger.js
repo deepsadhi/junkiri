@@ -9,7 +9,7 @@ var filename =  path.join(
                       path.join(__dirname, '..'),
                     '..'),
                   'logs'),
-                 config.database.filename);
+                 config.logger.filename);
 module.exports = new (winston.Logger)({
   transports: [
     new (winston.transports.Console)(),
