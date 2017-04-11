@@ -311,3 +311,11 @@
 {"level":"info","message":"WebSocket server started","timestamp":"2017-04-06T07:48:52.315Z"}
 {"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-06T07:48:52.320Z"}
 {"level":"info","message":"Client connected","timestamp":"2017-04-06T07:48:52.727Z"}
+{"level":"info","message":"WebSocket server started","timestamp":"2017-04-11T01:22:27.934Z"}
+{"level":"info","message":"Junkiri daemon started","timestamp":"2017-04-11T01:22:27.963Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-11T01:22:29.640Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-11T01:22:31.603Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-11T01:22:31.788Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-11T01:23:14.061Z"}
+{"level":"info","message":"Client disconnected","timestamp":"2017-04-11T01:23:38.161Z"}
+{"level":"info","message":"Client connected","timestamp":"2017-04-11T01:23:38.541Z"}
