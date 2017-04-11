@@ -1,7 +1,7 @@
 /** @module services/logger */
 var path = require('path');
 var winston = require('winston');
-var config = require('../config');
+var config = require('../../config');
 
 var filename =  path.join(
                   path.join(

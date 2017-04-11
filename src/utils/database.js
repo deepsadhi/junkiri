@@ -1,6 +1,6 @@
 /** @module utils/database */
 var path = require('path');
-var config = require('../config');
+var config = require('../../config');
 var sqlite = require('sqlite3').verbose();
 var logger = require('../services/logger');
 

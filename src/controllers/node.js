@@ -1,5 +1,5 @@
 /** @module controllers/node */
-var config = require('../config');
+var config = require('../../config');
 var utils = require('../utils/common');
 var node = require('../services/node');
 
