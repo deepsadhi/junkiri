@@ -1,6 +1,6 @@
 Junkiri
 =======
-![Coverage Status](https://junkiri.github.io/images/ic_logo_small.png)
+![Coverage Status](https://junkiri.github.io/images/ic_logo_small.png)  
 Junkiri allows to form a network of [NodeMCU](http://nodemcu.com/index_en.html) and control it through a Web app. It supports WebSocket to write beautiful front end apps.
 
 ## Quickstart
