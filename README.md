@@ -24,9 +24,9 @@ All to be found [repository wiki section.](https://github.com/deepsadhi/junkiri/
 
 ## Links
 
+* [Blog](https://blog.lftechnology.com/project-junkiri-diy-opensource-home-automation-ad12c003d699)
 * [Wiki](http://github.com/deepsadhi/junkiri/wiki)
 * [Docs](http://junkiri.github.io/docs)
-* [Blog](https://blog.lftechnology.com/project-junkiri-diy-opensource-home-automation-ad12c003d699)
 
 ## Authors
 
